@@ -58,8 +58,8 @@ export function Avatar(props) {
 
   return (
     <group {...props} ref={group} dispose={null}>
-      <group rotation-x={-Math.PI /2}>
-    <primitive object={nodes.Hips} />
+      <group>
+      <primitive object={nodes.Hips} />
     <skinnedMesh
       name="EyeLeft"
       geometry={nodes.EyeLeft.geometry}
@@ -132,8 +132,8 @@ export function Avatar(props) {
       skeleton={nodes.Wolf3D_Outfit_Top.skeleton}
   frustumCulled={false}
       />
-       </group>
-   </group>
+      </group>
+    </group>
   );
 }
 
