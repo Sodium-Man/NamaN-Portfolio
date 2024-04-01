@@ -29,7 +29,7 @@ export const LoadingScreen = (props) => {
         >
           Wawa Sensei
         </div>
-        <div className="opacity-40">Wawa Sensei</div>
+        <div className="opacity-40">NamaN Bhalani</div>
       </div>
     </div>
   );
