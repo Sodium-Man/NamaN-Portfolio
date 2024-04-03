@@ -18,7 +18,8 @@ npm run dev
 # Project Section
 ![image](https://github.com/Sodium-Man/NamaN-Portfolio/assets/110275891/55281e78-b04a-41ff-93fd-c5fd15e588f9)
 # Contact Section
-![Uploading image.png…]()
+![image](https://github.com/Sodium-Man/NamaN-Portfolio/assets/110275891/1a7ea990-2253-456d-af9e-f4da2c17fe14)
+
 
 
 
