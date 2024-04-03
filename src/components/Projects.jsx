@@ -26,10 +26,10 @@ export const projects = [
     description: "Generate Random Password in multiple levels ",
   },
   {
-    title: "Kanagame",
-    url: "https://www.youtube.com/watch?v=zwNF1-lsia8",
-    image: "projects/kanagame.jpg",
-    description: "Use React Three Fiber to create a 3D game",
+    title: "Two Good",
+    url: "https://too-good-website-1.vercel.app/",
+    image: "projects/Two_good.png",
+    description: "A very simple layout website",
   },
   {
     title: "Loader",
