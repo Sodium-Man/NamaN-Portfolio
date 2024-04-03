@@ -23,7 +23,7 @@ export const projects = [
     title: "Password Generator",
     url: "https://password-generator-drab-alpha.vercel.app/",
     image: "projects/password.png",
-    description: "Generate Random Password in multiple levels ",
+    description: "",
   },
   {
     title: "Two Good",
@@ -32,10 +32,10 @@ export const projects = [
     description: "A very simple layout website",
   },
   {
-    title: "Loader",
-    url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
-    image: "projects/loader.jpg",
-    description: "Create a loading screen for your r3f projects",
+    title: "Organ Procurement System",
+    url: "https://organ-procurement-system.vercel.app/",
+    image: "projects/ops.png",
+    description: "",
   },
 ];
 
