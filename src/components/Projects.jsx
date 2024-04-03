@@ -8,22 +8,22 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "2D Pixel Portfolio",
+    title: "2D Portfolio",
     url: "https://naman-pixel-github-portfolio.vercel.app/",
-    image: "2d_portfolio.png",
-    description: "An information 2D pixel portfolio of me",
+    image: "projects/2d_portfolio.png",
+    description: "An information portfolio of me",
   },
   {
-    title: "Portfolio Baking",
-    url: "https://www.youtube.com/watch?v=YkHqpqJgLKw",
-    image: "projects/baking.jpg",
-    description: "Learn how to bake a 3D model with Blender and use it in r3f",
+    title: "Ryker's Castle",
+    url: "https://github.com/Sodium-Man/Ryker-s_Castle",
+    image: "projects/ryker_castle.jpg",
+    description: "An adventorous Pixel Game in Java",
   },
   {
-    title: "3D Avatar",
-    url: "https://www.youtube.com/watch?v=pGMKIyALcK0",
-    image: "projects/avatar.jpg",
-    description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
+    title: "Password Generator",
+    url: "https://password-generator-drab-alpha.vercel.app/",
+    image: "projects/password.png",
+    description: "Generate Random Password in multiple levels ",
   },
   {
     title: "Kanagame",
