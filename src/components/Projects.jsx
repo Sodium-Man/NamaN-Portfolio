@@ -8,10 +8,10 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "Wawatmos",
-    url: "https://r3f-wawatmos-final.vercel.app/",
-    image: "projects/wawatmos.jpg",
-    description: "Recreating the Atmos Awwwards website with React Three Fiber",
+    title: "2D Pixel Portfolio",
+    url: "https://naman-pixel-github-portfolio.vercel.app/",
+    image: "2d_portfolio.png",
+    description: "An information 2D pixel portfolio of me",
   },
   {
     title: "Portfolio Baking",
