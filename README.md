@@ -1,5 +1,5 @@
 # Welcome to my portfolio
-This portfolio is made using Three JS, Blender (for 3D model) and my constant efforts.
+This portfolio is made using Three JS, Blender (for 3D model) and my constant efforts!
 # How to run
 
 ```
