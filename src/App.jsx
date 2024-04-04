@@ -10,6 +10,7 @@ import { LoadingScreen } from "./components/LoadingScreen";
 import { Menu } from "./components/Menu";
 import { ScrollManager } from "./components/ScrollManager";
 import { framerMotionConfig } from "./config";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   const [section, setSection] = useState(0);
@@ -22,6 +23,7 @@ function App() {
 
   return (
     <>
+      <Analytics />
       <LoadingScreen started={started} setStarted={setStarted} />
       <MotionConfig
         transition={{
