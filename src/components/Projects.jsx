@@ -9,7 +9,7 @@ import { useEffect, useRef } from "react";
 export const projects = [
   {
     title: "2D Portfolio",
-    url: "https://naman-pixel-github-portfolio.vercel.app/",
+    url: "naman-pixel-portfolio.vercel.app",
     image: "projects/2d_portfolio.png",
     description: "An information portfolio of me",
   },
@@ -20,13 +20,13 @@ export const projects = [
     description: "An adventorous Pixel Game in Java",
   },
   {
-    title: "Password Generator",
-    url: "https://password-generator-drab-alpha.vercel.app/",
-    image: "projects/password.png",
+    title: "Blinkit Dashboard",
+    url: "https://github.com/Sodium-Man/PowerBI_-Blinkit-Dashboard",
+    image: "projects/blinkit.png",
     description: "",
   },
   {
-    title: "Two Good",
+    title: "Two Good Website",
     url: "https://too-good-website-1.vercel.app/",
     image: "projects/Two_good.png",
     description: "A very simple layout website",
