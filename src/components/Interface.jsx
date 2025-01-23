@@ -106,15 +106,15 @@ const skills = [
     level: 100,
   },
   {
-    title: "Nodejs",
+    title: "Redux Toolkit",
     level: 100,
   },
   {
-    title: "Typescript",
+    title: "Data Visualization",
     level: 100,
   },
   {
-    title: "Tailwind CSS",
+    title: "PostgreSQL",
     level: 100,
   },
   {
@@ -124,32 +124,26 @@ const skills = [
   {
     title: "MongoDB",
     level: 100,
-  },
-  
+  }, 
   {
-    title: "Docker",
+    title: "Tailwind CSS",
     level: 100,
   },
 ];
 const languages = [
   {
-    title: "🇺🇸 English",
+    title: "C/C++",
     level: 100,
   },
   {
-    title: "🇮🇳 Hindi",
+    title: "Python",
     level: 100,
   },
   {
-    title: "🇩🇪 German",
-    level: 75,
-  },
-  {
-    title: "🇫🇷 French",
-    level: 50,
+    title: "Javascript",
+    level: 100,
   },
 ];
-
 const SkillsSection = () => {
   return (
     <Section>
