@@ -23,7 +23,7 @@ export const projects = [
     title: "Blinkit Dashboard",
     url: "https://github.com/Sodium-Man/PowerBI_-Blinkit-Dashboard",
     image: "projects/blinkit.png",
-    description: "",
+    description: "Sales Analysis with various KPIs",
   },
   {
     title: "Two Good Website",
